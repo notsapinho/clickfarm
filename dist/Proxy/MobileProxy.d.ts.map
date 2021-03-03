@@ -1,0 +1,1 @@
+{"version":3,"file":"MobileProxy.d.ts","sourceRoot":"","sources":["../../src/Proxy/MobileProxy.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAe9C,qBAAa,WAAY,SAAQ,YAAY;IAC5C,OAAO,CAAC,MAAM,CAAc;IAC5B,OAAO,CAAC,MAAM,CAAC,KAAK,CAAa;;IAMjC,WAAkB,SAAS,WAE1B;IAEK,IAAI;IAwEJ,OAAO;IAQP,KAAK;CAGX"}

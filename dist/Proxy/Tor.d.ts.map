@@ -1,0 +1,1 @@
+{"version":3,"file":"Tor.d.ts","sourceRoot":"","sources":["../../src/Proxy/Tor.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAI9C,qBAAa,GAAI,SAAQ,YAAY;IACpC,OAAO,CAAC,OAAO,CAAC,CAAe;IAC/B,OAAO,CAAC,SAAS,CAAU;gBAEf,IAAI,EAAE,MAAM;IAIxB,WAAkB,SAAS,WAE1B;IAEK,IAAI;IAiBJ,OAAO;CAMb"}

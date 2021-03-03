@@ -1,0 +1,1 @@
+{"version":3,"file":"GmailProvider.d.ts","sourceRoot":"","sources":["../../src/Email/GmailProvider.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,iBAAiB,CAAC;AAMhD,qBAAa,aAAc,SAAQ,aAAa;IACxC,MAAM,EAAE,GAAG,CAAC;gBAEP,QAAQ,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM;IAWxC,IAAI;IAKV,UAAU,SAAgB,MAAM,QAAQ,MAAM,SAAS,MAAM,mBAiB3D;IAEI,KAAK;CAGX"}
